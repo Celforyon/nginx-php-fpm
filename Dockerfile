@@ -1,4 +1,4 @@
-FROM richarvey/nginx-php-fpm
+FROM richarvey/nginx-php-fpm:php5
 MAINTAINER Alexis Pereda <alexis@pereda.fr>
 
 ENV UID 1000
